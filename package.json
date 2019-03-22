@@ -1,6 +1,6 @@
 {
   "name": "@dhis2/cli-app",
-  "description": "D2 CLI module for interacting with frontend applications",
+  "description": null,
   "license": "BSD-3-Clause",
   "version": "0.11.0"
 }
